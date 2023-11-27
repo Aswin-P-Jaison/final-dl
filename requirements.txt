@@ -1,7 +1,8 @@
 streamlit
 pandas
 tensorflow
-pickle
+opencv-python
+numpy
 scikit-learn
-pillow
 tqdm
+pillow
