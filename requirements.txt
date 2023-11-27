@@ -1,0 +1,7 @@
+streamlit
+pandas
+tensorflow
+pickle
+scikit-learn
+pillow
+tqdm
